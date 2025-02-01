@@ -1,0 +1,22 @@
+{
+  "name": "pet_project",
+  "version": "1.0.0",
+  "description": "This is a personal pet project based on https://www.saucedemo.com/ to practice Web UI test automation with PlayWright framework.",
+  "homepage": "https://github.com/Khazel/Pet_Project#readme",
+  "bugs": {
+    "url": "https://github.com/Khazel/Pet_Project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khazel/Pet_Project.git"
+  },
+  "license": "ISC",
+  "author": "Maksym Onishko",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {},
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.0"
+  }
+}
