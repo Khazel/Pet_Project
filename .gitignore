@@ -1,0 +1,21 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore environment files
+.env
+.env.local
+
+# Ignore log files
+*.log
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore PlayWright outputs
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+# Ignore eslint configurations
+eslint.config.mjs
